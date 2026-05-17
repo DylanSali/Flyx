@@ -5,7 +5,7 @@
 
 // 🔗 Google Apps Script Web App URL
 const SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbygvaklh4VhTetqL9kDynUC6J8YJY2NSEe8c3Kz1UXtDKMuLMh2B5FI5gXyIvPK6JjOeg/exec";
+  "https://script.google.com/macros/s/AKfycbyuIBBlJp0pFt75L9vaMbpDMwUxjQWEJBpOpT7hMcROTADReVXccRfGsv-tTeirGO1n8A/exec";
 
 /*******************************
  * GLOBAL STATE
